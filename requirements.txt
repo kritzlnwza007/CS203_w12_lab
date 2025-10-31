@@ -1,0 +1,9 @@
+streamlit>=1.37
+python-dotenv>=1.0
+litellm>=1.43
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26
+pandas>=2.2
+pypdf>=5.0
+requests>=2.32
